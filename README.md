@@ -1,2 +1,2 @@
 # WhatToDoMVC backend
-A rococo-based backend for the WhatToDoMVC sample
+A rococo-based backend for the WhatToDoMVC
